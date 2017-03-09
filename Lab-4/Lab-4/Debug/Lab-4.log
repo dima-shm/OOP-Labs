@@ -1,0 +1,25 @@
+﻿Сборка начата 29.10.2016 16:04:46.
+     1>Проект "D:\Study\2 курс\1 семестр\ООП\Лабораторные\Lab-4\Lab-4\Lab-4.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Diamond.cpp Emerald.cpp Gemstone.cpp Mineral.cpp Necklace.cpp Pearl.cpp Printer.cpp Rubin.cpp SemipreciousStone.cpp Stone.cpp main.cpp
+         main.cpp
+     1>d:\study\2 курс\1 семестр\ооп\лабораторные\lab-4\lab-4\main.cpp(16): fatal error C1083: Не удается открыть файл включение: Container.h: No such file or directory
+         Stone.cpp
+         SemipreciousStone.cpp
+         Rubin.cpp
+         Pearl.cpp
+         Necklace.cpp
+         Gemstone.cpp
+         Emerald.cpp
+         Diamond.cpp
+         Создание кода...
+         Компиляция...
+         Printer.cpp
+         Создание кода...
+         Пропуск... (изменения не обнаружены)
+         Mineral.cpp
+     1>Сборка проекта "D:\Study\2 курс\1 семестр\ООП\Лабораторные\Lab-4\Lab-4\Lab-4.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:07.87
