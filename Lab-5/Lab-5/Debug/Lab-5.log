@@ -1,0 +1,25 @@
+﻿Сборка начата 29.10.2016 11:17:43.
+     1>Проект "D:\Study\2 курс\1 семестр\ООП\Лабораторные\Lab-5\Lab-5\Lab-5.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Container.cpp
+         Container.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Study\2 курс\1 семестр\ООП\Лабораторные\Lab-5\Debug\Lab-5.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Study\2 курс\1 семестр\ООП\Лабораторные\Lab-5\Debug\Lab-5.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Study\2 курс\1 семестр\ООП\Лабораторные\Lab-5\Debug\Lab-5.lib" /MACHINE:X86 Debug\Container.obj
+         Debug\Controller.obj
+         Debug\Diamond.obj
+         Debug\Emerald.obj
+         Debug\Gemstone.obj
+         Debug\main.obj
+         Debug\Mineral.obj
+         Debug\Necklace.obj
+         Debug\Pearl.obj
+         Debug\Printer.obj
+         Debug\Rubin.obj
+         Debug\SemipreciousStone.obj
+         Debug\Stone.obj
+         Lab-5.vcxproj -> D:\Study\2 курс\1 семестр\ООП\Лабораторные\Lab-5\Debug\Lab-5.exe
+     1>Сборка проекта "D:\Study\2 курс\1 семестр\ООП\Лабораторные\Lab-5\Lab-5\Lab-5.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.27
