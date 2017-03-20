@@ -1,0 +1,20 @@
+﻿Сборка начата 26.11.2016 11:08:02.
+     1>Проект "D:\Study\2 курс\1 семестр\ООП\Лабораторные\Lab-8\Lab-8\Lab-8.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Product.cpp main.cpp
+         Product.cpp
+         Создание кода...
+         Компиляция...
+         main.cpp
+     1>d:\study\2 курс\1 семестр\ооп\лабораторные\lab-8\lab-8\main.cpp(18): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+                 d:\study\2 курс\1 семестр\ооп\лабораторные\lab-8\lab-8\main.cpp(198): см. ссылку на создание экземпляров функции шаблон при компиляции "void quickSort<double>(Set<double> &,int,int)"
+         Создание кода...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Study\2 курс\1 семестр\ООП\Лабораторные\Lab-8\Debug\Lab-8.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Study\2 курс\1 семестр\ООП\Лабораторные\Lab-8\Debug\Lab-8.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Study\2 курс\1 семестр\ООП\Лабораторные\Lab-8\Debug\Lab-8.lib" /MACHINE:X86 Debug\main.obj
+         Debug\Product.obj
+         Lab-8.vcxproj -> D:\Study\2 курс\1 семестр\ООП\Лабораторные\Lab-8\Debug\Lab-8.exe
+     1>Сборка проекта "D:\Study\2 курс\1 семестр\ООП\Лабораторные\Lab-8\Lab-8\Lab-8.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:03.30
