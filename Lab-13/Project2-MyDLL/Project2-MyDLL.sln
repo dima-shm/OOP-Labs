@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project2-MyDLL", "Project2-MyDLL\Project2-MyDLL.vcxproj", "{2CBCAA46-0BE3-4641-8992-727CC4356CEC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project2-Static", "Project2-Static\Project2-Static.vcxproj", "{8FA616C6-E395-4F2A-B170-4AB4150EAD74}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project2-Dinamic", "Project2-Dinamic\Project2-Dinamic.vcxproj", "{F6FF910B-0009-4826-8FDD-581F9858255F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CBCAA46-0BE3-4641-8992-727CC4356CEC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2CBCAA46-0BE3-4641-8992-727CC4356CEC}.Debug|Win32.Build.0 = Debug|Win32
+		{2CBCAA46-0BE3-4641-8992-727CC4356CEC}.Release|Win32.ActiveCfg = Release|Win32
+		{2CBCAA46-0BE3-4641-8992-727CC4356CEC}.Release|Win32.Build.0 = Release|Win32
+		{8FA616C6-E395-4F2A-B170-4AB4150EAD74}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8FA616C6-E395-4F2A-B170-4AB4150EAD74}.Debug|Win32.Build.0 = Debug|Win32
+		{8FA616C6-E395-4F2A-B170-4AB4150EAD74}.Release|Win32.ActiveCfg = Release|Win32
+		{8FA616C6-E395-4F2A-B170-4AB4150EAD74}.Release|Win32.Build.0 = Release|Win32
+		{F6FF910B-0009-4826-8FDD-581F9858255F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F6FF910B-0009-4826-8FDD-581F9858255F}.Debug|Win32.Build.0 = Debug|Win32
+		{F6FF910B-0009-4826-8FDD-581F9858255F}.Release|Win32.ActiveCfg = Release|Win32
+		{F6FF910B-0009-4826-8FDD-581F9858255F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

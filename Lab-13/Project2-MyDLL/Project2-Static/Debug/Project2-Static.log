@@ -1,0 +1,12 @@
+﻿Сборка начата 28.12.2016 9:30:53.
+     1>Проект "D:\Study\2 курс\1 семестр\ООП\Лабораторные\Lab-13\Project2-MyDLL\Project2-Static\Project2-Static.vcxproj" в узле 2 (целевые объекты Build).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Study\2 курс\1 семестр\ООП\Лабораторные\Lab-13\Project2-MyDLL\Debug\Project2-Static.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Study\2 курс\1 семестр\ООП\Лабораторные\Lab-13\Project2-MyDLL\Debug\Project2-Static.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Study\2 курс\1 семестр\ООП\Лабораторные\Lab-13\Project2-MyDLL\Debug\Project2-Static.lib" /MACHINE:X86 "Debug\Project2-Static.res"
+         Debug\main.obj
+         "Project2-MyDLL.lib"
+         Project2-Static.vcxproj -> D:\Study\2 курс\1 семестр\ООП\Лабораторные\Lab-13\Project2-MyDLL\Debug\Project2-Static.exe
+     1>Сборка проекта "D:\Study\2 курс\1 семестр\ООП\Лабораторные\Lab-13\Project2-MyDLL\Project2-Static\Project2-Static.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:07.28
